@@ -1,0 +1,5 @@
+/.vscode
+package.json
+package-lock.json
+node_modules/ 
+# 설치된 패키지 파일은 버전관리 필요 없으므로, 무시처리
